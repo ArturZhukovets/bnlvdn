@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bnlvdn
+- 👋 Hi, I’m Artur
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python Core, Pythonframeworks
 - 💞️ I’m looking to collaborate on ...
